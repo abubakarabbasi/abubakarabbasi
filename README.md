@@ -92,10 +92,18 @@
 
 ---
 
-### 🎓 Education & Certifications
+### 🎓 Education
 
 - 🎓 **B.Sc. Computer Engineering** — Air University, Islamabad (2019 – 2024)
-- 📜 Generative AI with LLMs · Advanced Learning Algorithms · Supervised ML — *DeepLearning.AI*
+
+---
+
+### 📜 Certifications
+
+- **[Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms)** — DeepLearning.AI · *May 2024*
+- **[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)** — DeepLearning.AI · *Apr 2024*
+- **[Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)** — DeepLearning.AI · *Dec 2023*
+- **[AI for Everyone](https://www.coursera.org/learn/ai-for-everyone)** — DeepLearning.AI · *Oct 2022*
 
 ---
 
