@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Abubakar Abbasi 👋</h1>
 <h3 align="center">Machine Learning Engineer & Python Developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abubakarabbasi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 <p align="center">
   🚀 Taking AI systems from research to production across <b>NLP</b>, <b>Computer Vision</b>, and <b>Generative AI</b>
