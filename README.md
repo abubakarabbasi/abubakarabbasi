@@ -66,25 +66,29 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured AI Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **Document Intelligence Platform** | RAG assistant for PDFs, contracts & reports with citation-aware retrieval | LangChain · FAISS · OpenAI |
-| **AI Customer Support Agent** | Voice-enabled assistant with STT/TTS, RAG & function calling + auto ticketing | RAG · STT/TTS |
-| **AI Traffic Monitoring** | Real-time surveillance: helmet/seatbelt detection, over-speeding, ANPR | YOLOv8 · OCR · FastAPI |
-| **Soulink** | GDPR/HIPAA-compliant AI wellness platform with RAG memory & voice synthesis | FastAPI · Next.js · ElevenLabs |
-| **OpenHome** | Smart-speaker AI: STT, TTS, diarization & translation | LLMs · Audio ML |
-| **MusicGen Fine-Tune** | Style-controlled music generation on a private dataset | Meta MusicGen |
+#### 🤖 Generative AI & LLM Applications
+- **Document Intelligence Platform** — RAG assistant querying PDFs, contracts & reports with citation-aware retrieval and summarization. `LangChain · FAISS · OpenAI`
+- **RAG E-commerce Chatbot** — Conversational system combining vector indexing, SQL execution & analytics, with prompt controls for factual correctness. `RAG · SQL · LLMs`
+- **AI Customer Support Agent** — Voice-enabled assistant integrating STT, TTS, RAG & function calling for real-time conversation with KB retrieval and automated ticket creation. `STT/TTS · RAG · Function Calling`
+- **Fitness Chatbot** — Fine-tuned GPT-3.5, Llama2 & Mistral for AI fitness coaching, optimizing prompts for accurate, low-resource guidance. `GPT-3.5 · Llama2 · Mistral`
+- **Sales Chatbot (Inbound)** — Private-data conversational assistant with semantic retrieval and a spoken Q&A voice interface. `Pinecone · Voice`
+- **MusicGen Fine-Tuned Model** — Fine-tuned Meta MusicGen on a private dataset for style-controlled, genre-specific generation. `Meta MusicGen`
 
----
+#### 👁️ Computer Vision
+- **AI Traffic Monitoring & Vehicle Analytics** — Real-time surveillance: helmet/seatbelt violation detection, over-speeding analysis, vehicle counting, traffic density & ANPR, with FastAPI backends for logging and automated fine generation. `YOLOv8 · OCR · Object Tracking · FastAPI`
+- **Facial Recognition Attendance System** — Recognition pipeline with dataset creation, inference & unknown-face detection. `VGG16 · MTCNN · FaceNet`
+- **ECG Classification** — End-to-end ECG time-series ML pipeline from data prep to inference, deployed via a Flask API. `Time-Series · Flask`
+- **Single Image to 3D** — Evaluated multiple 3D-generation models for mesh quality & production readiness in fashion use cases. `3D Generation`
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abubakarabbasi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarabbasi&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
+#### 🏗️ Production AI Platforms & Voice Agents
+- **Soulink** — GDPR/HIPAA-compliant AI wellness platform with RAG memory and voice synthesis. `FastAPI · Next.js · GPT · ElevenLabs`
+- **OpenHome** — Smart-speaker AI platform integrating STT, TTS, diarization & translation; led R&D and production hardening. `Voice AI · LLMs`
+- **ProgressAI** — Real-time AI tutoring system with multilingual STT, TTS & translation on scalable WebSocket session flows. `Voice AI · WebSockets`
+- **Oromis** — Automated topic-to-audio podcast generation platform with fast pipelines for on-demand content. `Audio Gen · TTS`
+- **Atlasedit** — Real-time backend with WebSockets, LLM prompt pipelines & context-preserving content separation. `WebSockets · LLMs`
+- **Attendance Dashboard** — Full-stack attendance system with scalable backend, DB schema & UI, delivered to production with DevOps workflows. `Full-Stack · DevOps`
 
 ---
 
@@ -98,6 +102,7 @@
 ### 🤝 Connect
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/abubakar-siddique-abbasi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:abubakarabbasi541@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/abubakarabbasi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
