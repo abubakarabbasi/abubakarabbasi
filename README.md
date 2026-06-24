@@ -1,16 +1,103 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Abubakar Abbasi 👋</h1>
+<h3 align="center">Machine Learning Engineer & Python Developer</h3>
 
-<!--
-**abubakarabbasi/abubakarabbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abubakarabbasi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Taking AI systems from research to production across <b>NLP</b>, <b>Computer Vision</b>, and <b>Generative AI</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me
+
+- 🔭 Machine Learning Engineer with **3 years** of experience shipping production AI
+- 💬 I build and deploy **LLM-powered apps** — RAG pipelines, real-time inference, and conversational agents
+- ⚡ Specialize in connecting cutting-edge models to real-world use with **FastAPI**, **Django**, and modern ML tooling
+- 🌍 Based in Rawalpindi, Pakistan
+- 📫 Reach me: **abubakarabbasi541@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**ML / Deep Learning**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Generative AI / NLP**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Llama](https://img.shields.io/badge/Llama2-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+**Computer Vision**
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Backend & MLOps**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Data & Vector Stores**
+![FAISS](https://img.shields.io/badge/FAISS-0668E1?style=for-the-badge&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+---
+
+### 💼 Experience
+
+**Machine Learning Engineer** @ Algoryc, Islamabad &nbsp;·&nbsp; *Jun 2024 – Present*
+- Design and ship production ML systems across CV and NLP via FastAPI/Django services built for reliability and observability
+- Build real-time inference with WebSockets and streaming, reducing latency for live conversational and analytics workloads
+- Lead R&D, prompt engineering, and production hardening for client-facing generative AI products — prototype to deployment
+
+**Junior ML Engineer** @ Algoryc &nbsp;·&nbsp; *Sep 2023 – Jun 2024* &nbsp;|&nbsp; **ML Intern** &nbsp;·&nbsp; *Jul 2023 – Sep 2023*
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Document Intelligence Platform** | RAG assistant for PDFs, contracts & reports with citation-aware retrieval | LangChain · FAISS · OpenAI |
+| **AI Customer Support Agent** | Voice-enabled assistant with STT/TTS, RAG & function calling + auto ticketing | RAG · STT/TTS |
+| **AI Traffic Monitoring** | Real-time surveillance: helmet/seatbelt detection, over-speeding, ANPR | YOLOv8 · OCR · FastAPI |
+| **Soulink** | GDPR/HIPAA-compliant AI wellness platform with RAG memory & voice synthesis | FastAPI · Next.js · ElevenLabs |
+| **OpenHome** | Smart-speaker AI: STT, TTS, diarization & translation | LLMs · Audio ML |
+| **MusicGen Fine-Tune** | Style-controlled music generation on a private dataset | Meta MusicGen |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abubakarabbasi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarabbasi&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+---
+
+### 🎓 Education & Certifications
+
+- 🎓 **B.Sc. Computer Engineering** — Air University, Islamabad (2019 – 2024)
+- 📜 Generative AI with LLMs · Advanced Learning Algorithms · Supervised ML — *DeepLearning.AI*
+
+---
+
+### 🤝 Connect
+
+<p align="center">
+  <a href="mailto:abubakarabbasi541@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/abubakarabbasi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
